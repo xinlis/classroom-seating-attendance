@@ -1,0 +1,7 @@
+这个目录只用于发布“班级座位与考勤系统”。
+
+不要把这里的文件上传到 49 人档案管理系统仓库：
+class-student-manager
+
+计划对应的新 GitHub 仓库：
+classroom-seating-attendance
